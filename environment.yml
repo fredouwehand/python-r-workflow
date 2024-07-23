@@ -1,0 +1,11 @@
+name: pythonr
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - numpy
+  - scanpy
+  - seaborn
+  - scipy
